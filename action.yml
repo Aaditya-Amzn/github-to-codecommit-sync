@@ -1,6 +1,6 @@
 
 name: Github to CodeCommit Sync
-description: 'Synchronize from GitHub to AWS CodeCommit via GitHub Actions using IAM credentials, creating a new commit and not just mirroring the entire repo so as to keep the CodeCommit history intact'
+description: 'Creating a new commit instead of mirrorig to synchronize from github to AWS Codecommit using actions and AWS CLI credentials'
 author: 'aaditya'
 branding:
   icon: git-commit
